@@ -10,7 +10,7 @@ body {
     font: 100% Verdana;
     margin: 20px;
     line-height: 26px;
-	background-image: url("color.gif");
+	background-image: url("pic1.jpg");
 	
     
 }
@@ -82,7 +82,7 @@ h1 {
 
 
 html { 
-  background: url(color.gif) no-repeat center fixed; 
+  background: url(pic1.jpg) no-repeat center fixed; 
   background-size: cover;
 }
 
