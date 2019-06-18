@@ -82,7 +82,7 @@ h1 {
 
 
 html { 
-  background: url(pic1.jpg) no-repeat center fixed; 
+  background: url("pic1.jpg") no-repeat center fixed; 
   background-size: cover;
 }
 
@@ -104,7 +104,7 @@ img {
 <body>
 <style>
 	body{
-	background-image:url(pic1.jpg);
+	background-image:url("pic1.jpg");
 	}
 	</style>
 
@@ -243,7 +243,7 @@ th {
 	</td>
  </tr>
 
-</table>
+
 <hr>
 
 <table>
