@@ -102,7 +102,11 @@ img {
 
 </head>
 <body>
-
+<style>
+	body{
+	background-image:url(pic1.jpg);
+	}
+	</style>
 
 
 <div class="container wrapper">
