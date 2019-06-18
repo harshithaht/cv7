@@ -10,7 +10,7 @@ body {
     font: 100% Verdana;
     margin: 20px;
     line-height: 26px;
-	background-image: url("pic1.jpg");
+	
 	
     
 }
@@ -101,7 +101,8 @@ img {
 
 
 </head>
-<body>
+<body background="pic1.jpg">
+	 
 <style>
 	body{
 	background-image:url("pic1.jpg");
